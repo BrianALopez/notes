@@ -17,3 +17,7 @@ During this class we learned about using jshell for a few things. We tried using
 Integer.MAX_VALUE
 DOUBLE.MAX_VALUE + 1
 ```
+
+**NOTE**
+
+Use _JSHELL_ to experiment
